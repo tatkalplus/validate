@@ -1,3 +1,5 @@
 {
   "primary": "https://plusvalidation.in/user.php",
- }
+  "backup1": "https://backup1.com/user.php",
+  "backup2": "https://backup2.com/user.php"
+}
