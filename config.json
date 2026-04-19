@@ -7,5 +7,6 @@
   "reset_url": "https://plusvalidation.in/reset_device.php",
   "download_zip": "https://plusvalidation.in/uploaded/web2.zip",
   "startup_zip": "https://plusvalidation.in/uploaded/temp.zip",
-  "token_api": "https://plusvalidation.in/get_tokens.php"
+  "token_api": "https://plusvalidation.in/get_tokens.php",
+  "updater_url": "https://plusvalidation.in/uploaded/Updater.exe"
 }
