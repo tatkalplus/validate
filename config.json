@@ -4,5 +4,6 @@
   "backup2": "https://backup2.com/user.php",
   "api_url": "https://plusvalidation.in/SystemMACmatch.php",
   "upload_url": "https://plusvalidation.in/screenshort.php",
-  "reset_url": "https://plusvalidation.in/reset_device.php"
+  "reset_url": "https://plusvalidation.in/reset_device.php",
+  "download_zip": "https://plusvalidation.in/uploaded/web2.zip"
 }
