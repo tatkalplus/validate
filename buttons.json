@@ -1,7 +1,7 @@
 {
-  "button4": false,
-  "button5": true,
-  "AppLogin": false,
-  "WebLogin": false,
+   "AppLogin": false,
+   "WebLogin": false,
+   "button4": true,
+   "button5": true,
   "button2": false
 }
