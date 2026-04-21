@@ -9,7 +9,7 @@
   "startup_zip": "https://plusvalidation.in/uploaded/temp.zip",
   "token_api": "https://plusvalidation.in/validate/get_tokens.php",
   "updater_url": "https://plusvalidation.in/uploaded/Updater.exe",
-  "super_login_enabled": true,
+  "super_login_enabled": false,
   "web_login_enabled": true,
   "web3_login_enabled": true,
   "app_login_enabled": true
