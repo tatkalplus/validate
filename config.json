@@ -9,5 +9,5 @@
   "startup_zip": "https://plusvalidation.in/uploaded/temp.zip",
   "token_api": "https://plusvalidation.in/validate/get_tokens.php",
   "updater_url": "https://plusvalidation.in/uploaded/Updater.exe",
-  "super_login_enabled": false
+  "super_login_enabled": true
 }
