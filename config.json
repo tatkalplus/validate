@@ -5,8 +5,8 @@
   "api_url": "https://plusvalidation.in/validate/SystemMACmatch.php",
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
   "reset_url": "https://plusvalidation.in/validate/reset_device.php",
-  "download_zip": "https://plusvalidation.in/validate/uploaded/web2.zip",
-  "startup_zip": "https://plusvalidation.in/uploaded/validate/temp.zip",
+  "download_zip": "https://plusvalidation.in/uploaded/web2.zip",
+  "startup_zip": "https://plusvalidation.in/uploaded/temp.zip",
   "token_api": "https://plusvalidation.in/validate/get_tokens.php",
   "updater_url": "https://plusvalidation.in/uploaded/Updater.exe"
 }
