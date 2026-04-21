@@ -9,8 +9,13 @@
   "startup_zip": "https://plusvalidation.in/uploaded/temp.zip",
   "token_api": "https://plusvalidation.in/validate/get_tokens.php",
   "updater_url": "https://plusvalidation.in/uploaded/Updater.exe",
- "web2": true,
-  "web3": false,
-  "app": true,
-  "super": false
+   "buttons": {
+    "WebLogin": true,
+    "AppLogin": true,
+    "button2": true,
+    "button3": true,
+    "button4": true,
+    "button5": true
+  },
+  "last_updated": "2026-04-21"
 }
