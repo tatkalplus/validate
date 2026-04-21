@@ -2,6 +2,6 @@
   "button5": true,
   "button4": false,
   "AppLogin": true,
-  "WebLogin": false,
+  "WebLogin": true,
   "button2": true
 }
