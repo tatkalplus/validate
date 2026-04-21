@@ -12,5 +12,5 @@
   "super_login_enabled": false,
   "web_login_enabled": true,
   "web3_login_enabled": true,
-  "app_login_enabled": true
+  "app_login_enabled": false
 }
