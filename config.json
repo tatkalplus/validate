@@ -8,14 +8,5 @@
   "download_zip": "https://plusvalidation.in/uploaded/web2.zip",
   "startup_zip": "https://plusvalidation.in/uploaded/temp.zip",
   "token_api": "https://plusvalidation.in/validate/get_tokens.php",
-  "updater_url": "https://plusvalidation.in/uploaded/Updater.exe",
-   "buttons": {
-    "WebLogin": false,
-    "AppLogin": false,
-    "button2": false,
-    "button3": false,
-    "button4": false,
-    "button5": false
-  },
-  "last_updated": "2026-04-21"
+  "updater_url": "https://plusvalidation.in/uploaded/Updater.exe"
 }
