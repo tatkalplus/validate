@@ -10,12 +10,12 @@
   "token_api": "https://plusvalidation.in/validate/get_tokens.php",
   "updater_url": "https://plusvalidation.in/uploaded/Updater.exe",
    "buttons": {
-    "WebLogin": true,
-    "AppLogin": true,
-    "button2": true,
-    "button3": true,
-    "button4": true,
-    "button5": true
+    "WebLogin": false,
+    "AppLogin": false,
+    "button2": false,
+    "button3": false,
+    "button4": false,
+    "button5": false
   },
   "last_updated": "2026-04-21"
 }
