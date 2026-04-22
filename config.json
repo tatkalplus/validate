@@ -1,13 +1,14 @@
 {
   "primary": "https://plusvalidation.in/validate/user.php",
-  "backup1": "https://backup1.com/validate/user.php",
-  "backup2": "https://backup2.com/validate/user.php",
+  "backup1": "https://pluspanel.online/validate/user.php",
+  "backup2": "https://pluspanel.online/validate/user.php",
   "api_url": "https://plusvalidation.in/validate/SystemMACmatch.php",
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
   "reset_url": "https://plusvalidation.in/validate/reset_device.php",
-  "download_zip": "https://plusvalidation.in/uploaded/web2.zip",
-  "startup_zip": "https://plusvalidation.in/uploaded/temp.zip",
-  "token_api": "https://plusvalidation.in/validate/get_tokens.php",
-  "updater_url": "https://plusvalidation.in/uploaded/Updater.exe",
-  "exe_url": "https://plusvalidation.in/uploaded/Plus.exe"
+  "download_zip": "https://pluspanel.online/uploaded/web2.zip",
+  "startup_zip": "https://pluspanel.online/uploaded/temp.zip",
+  "token_api": "https://pluspanel.online/validate/get_tokens.php",
+  "updater_url": "https://pluspanel.online/uploaded/Updater.exe",
+  "exe_url": "https://pluspanel.online/uploaded/Plus.exe"
 }
+
