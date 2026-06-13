@@ -9,6 +9,7 @@
   "startup_zip": "https://pluspanel.online/uploaded/temp.zip",
   "token_api": "https://pluspanel.online/validate/get_tokens.php",
   "updater_url": "https://pluspanel.online/uploaded/Updater.exe",
-  "exe_url": "https://pluspanel.online/uploaded/Plus.exe"
+  "exe_url": "https://pluspanel.online/uploaded/Plus.exe",
+  "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip"
 }
 
