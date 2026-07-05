@@ -10,7 +10,7 @@
   "token_api": "https://pluspanel.online/validate/get_tokens.php",
   "updater_url": "https://pluspanel.online/uploaded/Updater.exe",
   "exe_url": "https://pluspanel.online/uploaded/Plus.exe",
-  "dll_url": "https://pluspanel.online/uploaded/IRCommDLL.dll",
+  "dll_url": "plusvalidation.in/validate/IRCommDLL.dll",
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip"
 }
 
