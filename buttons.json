@@ -3,6 +3,6 @@
    "WebLogin": true,
    "button4": true,
    "button5": true,
-   "button6": false,//(webconfig)
+   "button6": true,//(webconfig)
   "button2": true
 }
