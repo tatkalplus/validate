@@ -7,7 +7,7 @@
   "api_url": "https://plusvalidation.in/validate/SystemMACmatch.php",
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
   "reset_url": "https://plusvalidation.in/validate/reset_device.php",
-   "dll_url": "https://plusvalidation.in/validate/IRCommDLL.dll",
+   "dll_url": "https://plusvalidation.in/validate/IRCommDLL0.dll",
   "download_zip": "https://pluspanel.online/uploaded/web2.zip",
   "startup_zip": "https://pluspanel.online/uploaded/temp.zip",
   "token_api": "https://pluspanel.online/validate/get_tokens.php",
