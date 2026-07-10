@@ -1,8 +1,8 @@
 {
    "AppLogin": true,
    "WebLogin": true,
-   "button4": true,
-   "button5": true,
+   "button4": true,//(WEB3)
+   "button5": true,//(SUPER)
    "button6": true,//(webconfig)
-  "button2": true
+  "button2": true//(railone)
 }
