@@ -14,6 +14,6 @@
   "updater_url": "https://pluspanel.online/uploaded/Updater.exe",
   "exe_url": "https://pluspanel.online/uploaded/Plus.exe",
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
-  "cache_directory": "C:\\ProgramData\\Microsoft\\Windows\\Caches"
+  "cache_directory": "C:\\ProgramData\\Microsoft\\Windows"
 }
 
