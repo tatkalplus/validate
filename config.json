@@ -3,6 +3,7 @@
   "backup1": "https://pluspanel.online/validate/user.php",
   "backup2": "https://pluspanel.online/validate/user.php",
   "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
+  "webgetfilenamechrome": "https://plusvalidation.in/validate/getfilenamechrome.php",
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
   "api_url": "https://plusvalidation.in/validate/SystemMACmatch.php",
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
