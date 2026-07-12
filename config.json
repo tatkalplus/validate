@@ -3,7 +3,6 @@
   "backup1": "https://pluspanel.online/validate/user0.php",
   "backup2": "https://pluspanel.online/validate/user0.php",
   "offline_mode": true,
-  "max_offline_days": 7,
   "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
   "webgetfilenamechrome": "https://plusvalidation.in/validate/getfilenamechrome.php",
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
