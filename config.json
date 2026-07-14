@@ -2,7 +2,7 @@
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://pluspanel.online/validate/user.php",
   "backup2": "https://pluspanel.online/validate/user.php",
-  "offline_mode": true‎",
+ "offline_mode": true,
   "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
   "webgetfilenamechrome": "https://plusvalidation.in/validate/getfilenamechrome.php",
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
