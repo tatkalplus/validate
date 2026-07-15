@@ -2,7 +2,7 @@
    "AppLogin": true,
    "WebLogin": false,
    "button4": true,
-   "button5": false,
+   "button5": true,
    "button6": false,
   "button2": false,
    "button6_text": "WEB",
