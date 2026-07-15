@@ -3,8 +3,8 @@
    "WebLogin": false,
    "button4": true,
    "button5": true,
-   "button6": false,
-  "button2": false,
+   "button6": true,
+   "button2": false,
    "button6_text": "WEB",
    "AppLogin_text": "APP"
 }
