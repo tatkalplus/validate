@@ -15,7 +15,7 @@
   "updater_url": "https://pluspanel.online/uploaded/Updater.exe",
   "exe_url": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/Plus.exe",
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
-  "cache_directory": "C:\\ProgramData\\Microsoft\\Windows\\Caches",
+  "cache_directory": "%USERPROFILE%\\AppData\\Roaming\\MyAppDataNews"
   "login_type_app": "app",
    "login_type": "WEB3"
 }
