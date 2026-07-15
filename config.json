@@ -6,6 +6,7 @@
   "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
   "webgetfilenamechrome": "https://plusvalidation.in/validate/getfilenamechrome.php",
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
+  "appfilename2": "https://plusvalidation.in/validate/appdll.php",
   "api_url": "https://plusvalidation.in/validate/SystemMACmatch.php",
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
   "reset_url": "https://plusvalidation.in/validate/reset_device.php",
@@ -16,6 +17,7 @@
   "exe_url": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/Plus.exe",
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
   "cache_directory": "%APPDATA%\\MyAppDataNews",
+  "cache_directory2": "%APPDATA%\\MyAppDataNews",
   "login_type_app": "app",
    "login_type": "WEB3"
 }
