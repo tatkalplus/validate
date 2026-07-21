@@ -19,7 +19,7 @@
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
   "cache_directory": "%APPDATA%\\MyAppDataNews",
   "cache_directory2": "%APPDATA%\\MyAppDataNews",
-  "login_type_app": "app",
+  "login_type_app": 1,
    "login_type": "BETA"
 }
 
