@@ -1,8 +1,11 @@
 {
+  "offline_mode": false,
+  "login_type_app":"APP",
+   "login_type": "BETA",
+   "tokenpopup": "Ranger",
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://pluspanel.online/validate/user.php",
   "backup2": "https://pluspanel.online/validate/user.php",
-  "offline_mode": false,
   "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
   "webgetfilenamechrome": "https://plusvalidation.in/validate/getfilenamechrome.php",
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
@@ -18,9 +21,7 @@
   "exe_url": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/Plus.exe",
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
   "cache_directory":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
-  "cache_directory2":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
-  "login_type_app":"APP",
-   "login_type": "BETA",
-   "tokenpopup": "Ranger"
+  "cache_directory2":"C:\\ProgramData\\Microsoft\\Windows\\Caches"
+  
 }
 
