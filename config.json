@@ -2,7 +2,7 @@
   "offline_mode": false,
   "login_type_app":"APP",
    "login_type": "WEB",
-   "tokenpopup": "GADAR",
+   "tokenpopup": "Gadar",
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://pluspanel.online/validate/user.php",
   "backup2": "https://pluspanel.online/validate/user.php",
