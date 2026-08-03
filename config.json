@@ -3,7 +3,7 @@
   "login_type_app":"APP",
   "login_type": "WEB",
   "tokenpopup": "Gadar",
-  "replace": "chrome|Gadar|Nexus|Superman",
+  "replace": "Ranger|Gadar|Nexus|Superman",
   "replacewith": "Sierra",
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://pluspanel.online/validate/user.php",
