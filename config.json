@@ -24,8 +24,6 @@
   "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
   "cache_directory":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
   "cache_directory2":"%APPDATA%\\MyAppDataNews",
-  "requestUrl1": "https://raw.githubusercontent.com/rangerdev772/ranger/main/updatedata.txt",
-  "requestUrl2": "https://raw.githubusercontent.com/rangerdev772/ranger/refs/heads/main/UpdateRangerdata.txt",
- 
+   
 }
 
