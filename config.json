@@ -1,7 +1,7 @@
 {
   "offline_mode": true,
   "login_type_app":"APP",
-  "login_type": "WEB",
+  "login_type": "WEB3",
   "tokenpopup": "Gadar",
   "replace": "Ranger|Gadar|Nexus|Superman",
   "replacewith": "Sierra",
