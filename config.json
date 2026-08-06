@@ -1,7 +1,7 @@
 {
-  "offline_mode": true,
+  "offline_mode": false,
   "login_type_app":"APP",
-  "login_type": "WEB3",
+  "login_type": "WEB",
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://pluspanel.online/validate/user.php",
   "backup2": "https://pluspanel.online/validate/user.php",
