@@ -1,10 +1,10 @@
 {
    "AppLogin": true,
-   "WebLogin": true,
-   "button4": true,
-   "button5": true,
+   "WebLogin": false,
+   "button4": false,
+   "button5": false,
    "button6": true,
    "button2": false,
-   "button6_text": "WEB2",
+   "button6_text": "APP2",
    "AppLogin_text": "APP"
 }
