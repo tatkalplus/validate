@@ -17,9 +17,7 @@
   "startup_zip": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/temp.zip",
   "token_api": "https://pluspanel.online/validate/get_tokens.php",
   "token_api2": "https://pluspanel.online/validate/get_tokens.php",
-  "updater_url": "https://pluspanel.online/uploaded/Updater.exe",
   "exe_url": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/Plus.exe",
-  "chrome_url": "https://pluspanel.online/uploaded/chrome-win64.zip",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews"
 }
