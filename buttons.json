@@ -1,10 +1,10 @@
 {
    "AppLogin": true,
-   "WebLogin": false,
-   "button4": false,
-   "button5": false,
-   "button6": false,
-   "button2": false,
+   "WebLogin": true,
+   "button4": true,
+   "button5": true,
+   "button6": true,
+   "button2": true,
    "button6_text": "EDGE",
    "AppLogin_text": "APP LOGIN"
 }
