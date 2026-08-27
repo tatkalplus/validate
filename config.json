@@ -14,16 +14,14 @@
   "upload_url": "https://plusvalidation.in/validate/screenshort.php",
   "reset_url": "https://plusvalidation.in/validate/reset_device.php",
   "download_zip": "https://pluspanel.online/uploaded/web2.zip",
-  "startup_zip": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/temp.zip",
   "updater_Zip": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/Plus.zip",
   "startup_app_zip": "https://pluspanel.online/uploaded/app.zip",
   "startup_web_zip": "https://pluspanel.online/uploaded/web.zip",
   "token_api": "https://pluspanel.online/validate/get_tokens.php",
   "token_api2": "https://pluspanel.online/validate/get_tokens.php",
-  "exe_url": "https://pub-c06d9a1944dc4fdcbfd7343d1ec8991f.r2.dev/Plus.exe",
   "cache_directory":"%APPDATA%\\MyAppDataNews",
   "cache_directory2":"%APPDATA%\\MyAppDataNews",
-   "telegram_link": "https://t.me/Tatkalpluscontroller",
+  "telegram_link": "https://t.me/Tatkalpluscontroller",
   "whatsapp_link": "https://whatsapp.com/channel/0029Vb7qq7ZElagvIZ8YGd2s"
 }
 
