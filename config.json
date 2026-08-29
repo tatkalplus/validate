@@ -1,5 +1,5 @@
 {
-  "offline_mode": false,
+  "offline_mode": true,
   "login_type_app":"APP",
   "login_type": "EDGE",
   "tokenpopup": "SUPERMAN|GADAR",
