@@ -4,7 +4,7 @@
   "login_type": "EDGE",
   "tokenpopup": "SUPERMAN|GADAR",
   "primary": "https://plusvalidation.in/validate/user.php",
-  "backup1": "https://plusvalidation.in/validate/user.php",
+  "backup1": "https://http://sujanplus.online/user.php",
   "backup2": "https://plusvalidation.in/validate/user.php",
   "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
   "webgetfilenamechrome": "https://plusvalidation.in/validate/getfilenamechrome.php",
