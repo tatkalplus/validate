@@ -6,8 +6,6 @@
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://http://sujanplus.online/user.php",
   "backup2": "https://plusvalidation.in/validate/user.php",
-  "webgetfilename": "https://plusvalidation.in/validate/getfilename.php",
-  "webgetfilenamechrome": "https://plusvalidation.in/validate/getfilenamechrome.php",
   "appfilename": "https://plusvalidation.in/validate/appdll.php",
   "appfilename2": "https://plusvalidation.in/validate/appdll2.php",
   "api_url": "https://plusvalidation.in/validate/SystemMACmatch.php",
