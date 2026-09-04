@@ -16,7 +16,7 @@
   "token_api": "https://pluspanel.online/validate/get_tokens.php",
   "token_api2": "https://pluspanel.online/validate/get_tokens.php",
   "cache_directory":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
-  "cache_directory2":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
+  "cache_directory2":"%APPDATA%\\MyAppDataNews",
   "telegram_link": "https://t.me/etrtyryt",
   "whatsapp_link": "https://whatsapp.com/channel/jiuhiy"
 }
