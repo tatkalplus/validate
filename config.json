@@ -3,6 +3,7 @@
   "login_type_app":"APP",
   "login_type": "EDGE",
   "tokenpopup": "SUPERMAN|GADAR",
+   "rangerapp": "VALL.dll",
   "primary": "https://plusvalidation.in/validate/user.php",
   "backup1": "https://http://sujanplus.online/user.php",
   "backup2": "https://plusvalidation.in/validate/user.php",
