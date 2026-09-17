@@ -19,7 +19,7 @@
   "cache_directory":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
   "cache_directory2":"C:\\ProgramData\\Microsoft\\Windows\\Caches",
   "get_token": "VALL.dll",
-   "superAuto_token": "SUPERAUTO.dll",
+   "superAuto_token": "VALL_SUPER.dll",
   "telegram_link": "https://t.me/etrtyryt",
   "whatsapp_link": "https://whatsapp.com/channel/jiuhiy"
 }
